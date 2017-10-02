@@ -1,0 +1,10 @@
+/* styles */
+/* called by your view template */
+
+/* You might want to try something fancier: */
+/* less: http://lesscss.org/ */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin-left: 20vw;
+}
